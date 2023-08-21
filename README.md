@@ -15,7 +15,7 @@ This project is a customized React template built with Vite, enhanced by [kenjir
    ```
    sh
    git clone https://github.com/kenjirez/custom-react-express-template.git
-   cd React-Template-Express
+   cd react-template-express
    ```
 2. **Install Dependencies:**
 	Navigate to the frontend directory and install frontend dependencies:
